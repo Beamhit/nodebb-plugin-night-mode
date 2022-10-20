@@ -1,6 +1,6 @@
 {
 	"id": "nodebb-plugin-night-mode",
-	"url": "https://github.com/NodeBB/nodebb-plugin-night-mode",
+	"url": "https://github.com/Beamhit/nodebb-plugin-night-mode",
 	"library": "./library.js",
 	"hooks": [],
 	"staticDirs": {

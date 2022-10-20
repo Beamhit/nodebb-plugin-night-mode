@@ -5,7 +5,7 @@
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-night-mode"
+    "url": "https://github.com/Beamhit/nodebb-plugin-night-mode"
   },
   "keywords": [
     "nodebb",
@@ -18,9 +18,16 @@
     "name": "psychobunny",
     "email": "psycho.bunny@hotmail.com"
   },
+  "contributors": [    
+    {
+        "name": "Lorenz0#7333",
+        "email": "pipowinrp@gmail.com",
+        "url": "https://github.com/Beamhit"
+    }
+],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-night-mode/issues"
+    "url": "https://github.com/Beamhit/nodebb-plugin-night-mode/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
